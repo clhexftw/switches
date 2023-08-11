@@ -1,0 +1,23 @@
+!!brut.androlib.apk.ApkInfo
+doNotCompress:
+- resources.arsc
+isFrameworkApk: false
+mApkFileName: SwitchIos.apk
+mSdkInfo:
+  minSdkVersion: '30'
+  targetSdkVersion: '30'
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

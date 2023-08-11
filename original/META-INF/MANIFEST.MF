@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: W/s5Ia9fLq0QkxIuBh955WHyjA+pN9SgCXsRIYgKUnM=
+
+Name: res/drawable/ancient_switch_off.xml
+SHA-256-Digest: WqxvlvrGw//CVGRdFNtJlmIkNzhf2w5KdpiF3Vc2I9E=
+
+Name: res/drawable/ancient_switch_on.xml
+SHA-256-Digest: Yyliy7fji1a3CxGhZoPS3Vaz+HPylCBvz/+6Sb5vJ5w=
+
+Name: res/drawable/ancient_track_off_background.xml
+SHA-256-Digest: YFzkjFPRpqXWbfePJT7NmoC7L2EiCYJF4ONb7f8pJdY=
+
+Name: res/drawable/ancient_track_off_indicator.xml
+SHA-256-Digest: im6GdhBUZvf7eLY59LllTgCA7FsS7iXC8S0j8mucoG4=
+
+Name: res/drawable/ancient_track_on_background.xml
+SHA-256-Digest: t2JGSUi3uoOb4MWkU9J3fm8YSrrmk3vWSDKvmVwjyBk=
+
+Name: res/drawable/ancient_track_on_indicator.xml
+SHA-256-Digest: vcqyCEsAZXWendwvnxR5Wikt50HoH3Q7ntVe4pI4w2Q=
+
+Name: res/drawable/custom_switch_previewer.xml
+SHA-256-Digest: mQQuP54IRLeZShcKDzYPRhZT4zbTR2uXAvEqsIHNaKM=
+
+Name: resources.arsc
+SHA-256-Digest: dWPJR36+wCYHKqIDo0sRqbPSYqWD2uqqUTaymcFNVo8=
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ancient_switch_off" id="0x7f010000" />
+    <public type="drawable" name="ancient_switch_on" id="0x7f010001" />
+    <public type="drawable" name="ancient_track_off_background" id="0x7f010002" />
+    <public type="drawable" name="ancient_track_off_indicator" id="0x7f010003" />
+    <public type="drawable" name="ancient_track_on_background" id="0x7f010004" />
+    <public type="drawable" name="ancient_track_on_indicator" id="0x7f010005" />
+    <public type="drawable" name="custom_switch_previewer" id="0x7f010006" />
+</resources>

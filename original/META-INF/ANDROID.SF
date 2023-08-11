@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: mpF99FTzk2zM7ywsUl8PLl/mrjf+GwdQ3gTRsVDkvqM=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: Jmu5xX0/XXL90kCe39xeD+kQQGuR3HHsP8rcMhl2DB4=
+
+Name: res/drawable/ancient_switch_off.xml
+SHA-256-Digest: mbLoe3DkfOpbsvvmJCCWtTZqQ7cM5Jdi2IryCFp7+10=
+
+Name: res/drawable/ancient_switch_on.xml
+SHA-256-Digest: hHgT3suKPMG96tupDPfdOmWIQ9jAhW/2+nYOITxd+h8=
+
+Name: res/drawable/ancient_track_off_background.xml
+SHA-256-Digest: hVfJBwstl+CL9slD2gYB61ZO/5yKU+GcnB8/m25mjCw=
+
+Name: res/drawable/ancient_track_off_indicator.xml
+SHA-256-Digest: G52QQ9IcHqNppNpogTrym0U+nTExnRnxR1fPWMlvn3Y=
+
+Name: res/drawable/ancient_track_on_background.xml
+SHA-256-Digest: 8ufsyZbMRzlGa00H1kLde87SnDU62a5tW+4RVKr7+wU=
+
+Name: res/drawable/ancient_track_on_indicator.xml
+SHA-256-Digest: y5K4OlTWUKwMxcdScchoqPSDh0CXA6pS48J7FjuEylo=
+
+Name: res/drawable/custom_switch_previewer.xml
+SHA-256-Digest: hgR1Kom6tNquwMD/1YjVi4KgeYyi29FApcGKzQmVg3c=
+
+Name: resources.arsc
+SHA-256-Digest: r1t2mOLfIiPMD0E7ZylqcAGI+NtIgIf9gR+dnpLNaLQ=
+
